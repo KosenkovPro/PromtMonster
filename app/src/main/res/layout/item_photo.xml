@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pro.kosenkov.promtmonster.SquareImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/imageView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="centerCrop"
+    android:background="@color/surface"
+    android:foreground="?attr/selectableItemBackground"
+    android:contentDescription="" />

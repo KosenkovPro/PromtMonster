@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">ПРОМПТ НА АНГЛИЙСКОМ</string>
+    <string name="label_your_prompt">НА РУССКОМ</string>
+    <string name="no_prompt">Промпт отсутствует</string>
+    <string name="hint_no_photos">Фотографий пока нет</string>
+    <string name="hint_add_photos">Добавьте фото в папку:\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">Назад</string>
+</resources>

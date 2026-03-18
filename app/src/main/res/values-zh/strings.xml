@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">英文提示词</string>
+    <string name="label_your_prompt">中文翻译</string>
+    <string name="no_prompt">暂无提示词</string>
+    <string name="hint_no_photos">暂无照片</string>
+    <string name="hint_add_photos">将图片添加到：\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">返回</string>
+</resources>

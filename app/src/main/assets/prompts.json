@@ -1,0 +1,56 @@
+[
+  {
+    "filename": "sample_01.jpg",
+    "prompt_en": "A majestic dragon breathing fire in a fantasy landscape, digital art, highly detailed, cinematic lighting, 8k resolution",
+    "translations": {
+      "zh": "一条威严的龙在奇幻景观中喷火，数字艺术，高度精细，电影般的光线，8K分辨率",
+      "hi": "एक राजसी ड्रैगन जो फंतासी परिदृश्य में आग उगल रहा है, डिजिटल कला, अत्यधिक विस्तृत, सिनेमाई प्रकाश, 8K रिज़ॉल्यूशन",
+      "es": "Un dragón majestuoso respirando fuego en un paisaje de fantasía, arte digital, muy detallado, iluminación cinematográfica, resolución 8K",
+      "fr": "Un dragon majestueux crachant du feu dans un paysage fantastique, art numérique, très détaillé, éclairage cinématographique, résolution 8K",
+      "ar": "تنين مهيب يتنفس النار في مشهد خيالي، فن رقمي، مفصل للغاية، إضاءة سينمائية، دقة 8K",
+      "bn": "একটি রাজসী ড্রাগন ফ্যান্টাসি ল্যান্ডস্কেপে আগুন নিঃশ্বাস নিচ্ছে, ডিজিটাল আর্ট, অত্যন্ত বিস্তারিত, সিনেমাটিক আলো, 8K রেজোলিউশন",
+      "pt": "Um dragão majestoso soltando fogo em uma paisagem de fantasia, arte digital, altamente detalhado, iluminação cinematográfica, resolução 8K",
+      "ru": "Величественный дракон, извергающий огонь на фоне фэнтезийного пейзажа, цифровое искусство, высокая детализация, кинематографическое освещение, разрешение 8K",
+      "ur": "ایک شاندار ڈریگن فنتاسی منظر میں آگ اگل رہا ہے، ڈیجیٹل آرٹ، انتہائی تفصیلی، سینماٹک روشنی، 8K ریزولیوشن",
+      "id": "Seekor naga yang megah menghembuskan api di lanskap fantasi, seni digital, sangat detail, pencahayaan sinematik, resolusi 8K",
+      "de": "Ein majestätischer Drache, der Feuer in einer Fantasylandschaft atmet, digitale Kunst, sehr detailliert, kinematografische Beleuchtung, 8K-Auflösung",
+      "ja": "壮大なドラゴンがファンタジーの風景で火を吐いている、デジタルアート、非常に詳細、映画的な照明、8K解像度"
+    }
+  },
+  {
+    "filename": "sample_02.jpg",
+    "prompt_en": "A serene Japanese garden at sunset with cherry blossoms falling, koi pond, traditional lanterns, photorealistic",
+    "translations": {
+      "zh": "日落时分宁静的日本花园，樱花飘落，锦鲤池塘，传统灯笼，照片写实",
+      "hi": "सूर्यास्त के समय एक शांत जापानी बगीचा, चेरी ब्लॉसम गिरते हुए, कोई तालाब, पारंपरिक लालटेन, फोटोरियलिस्टिक",
+      "es": "Un jardín japonés sereno al atardecer con flores de cerezo cayendo, estanque de koi, faroles tradicionales, fotorrealista",
+      "fr": "Un jardin japonais serein au coucher du soleil avec des fleurs de cerisier qui tombent, étang à carpes koï, lanternes traditionnelles, photoréaliste",
+      "ar": "حديقة يابانية هادئة عند غروب الشمس مع سقوط أزهار الكرز، بركة أسماك الكوي، فوانيس تقليدية، واقعية للصور",
+      "bn": "সূর্যাস্তে চেরি ফুল পড়া সহ একটি শান্ত জাপানি বাগান, কই পুকুর, ঐতিহ্যবাহী লণ্ঠন, ফটোরিয়েলিস্টিক",
+      "pt": "Um jardim japonês sereno ao pôr do sol com flores de cerejeira caindo, lagoa de carpa koi, lanternas tradicionais, fotorrealista",
+      "ru": "Спокойный японский сад на закате с падающими лепестками сакуры, пруд с карпами кои, традиционные фонари, фотореализм",
+      "ur": "غروب آفتاب میں چیری بلاسم گرتے ہوئے ایک پرسکون جاپانی باغ، کوئی تالاب، روایتی لالٹین، فوٹو ریئلسٹک",
+      "id": "Taman Jepang yang tenang saat matahari terbenam dengan bunga sakura yang berguguran, kolam ikan koi, lentera tradisional, fotorealistis",
+      "de": "Ein ruhiger japanischer Garten bei Sonnenuntergang mit fallenden Kirschblüten, Koi-Teich, traditionelle Laternen, fotorealistisch",
+      "ja": "夕暮れ時に桜が舞い散る穏やかな日本庭園、鯉の池、伝統的な灯籠、フォトリアリスティック"
+    }
+  },
+  {
+    "filename": "sample_03.jpg",
+    "prompt_en": "Cyberpunk city street at night, neon lights reflecting on wet pavement, futuristic cars, rain, ultra-wide angle",
+    "translations": {
+      "zh": "夜晚的赛博朋克城市街道，霓虹灯倒映在湿润的路面上，未来感汽车，雨天，超广角",
+      "hi": "रात में साइबरपंक शहर की सड़क, नियॉन लाइट्स गीली सड़क पर प्रतिबिंबित हो रही हैं, भविष्यवादी कारें, बारिश, अल्ट्रा-वाइड एंगल",
+      "es": "Calle de ciudad cyberpunk de noche, luces de neón reflejadas en el pavimento mojado, autos futuristas, lluvia, ángulo ultra-ancho",
+      "fr": "Rue de ville cyberpunk la nuit, lumières néon se reflétant sur le pavé mouillé, voitures futuristes, pluie, angle ultra-large",
+      "ar": "شارع مدينة سايبربانك في الليل، أضواء نيون تنعكس على الرصيف المبلل، سيارات مستقبلية، مطر، زاوية واسعة للغاية",
+      "bn": "রাতে সাইবারপাংক শহরের রাস্তা, ভেজা ফুটপাথে নিয়ন আলোর প্রতিফলন, ভবিষ্যতের গাড়ি, বৃষ্টি, আল্ট্রা-ওয়াইড অ্যাঙ্গেল",
+      "pt": "Rua de cidade cyberpunk à noite, luzes neon refletindo no pavimento molhado, carros futuristas, chuva, ângulo ultra-amplo",
+      "ru": "Улица киберпанк-города ночью, неоновые огни отражаются на мокром асфальте, футуристические автомобили, дождь, сверхширокоугольный вид",
+      "ur": "رات کے وقت سائبرپنک شہر کی سڑک، گیلی سڑک پر نیون لائٹس کا عکس، مستقبل کی گاڑیاں، بارش، الٹرا-وائیڈ اینگل",
+      "id": "Jalan kota cyberpunk di malam hari, lampu neon memantul di trotoar basah, mobil futuristik, hujan, sudut ultra-lebar",
+      "de": "Cyberpunk-Stadtstraße bei Nacht, Neonlichter spiegeln sich auf nassem Pflaster, futuristische Autos, Regen, Ultra-Weitwinkel",
+      "ja": "夜のサイバーパンク都市の通り、ネオンライトが濡れた歩道に反射、未来的な車、雨、超広角"
+    }
+  }
+]

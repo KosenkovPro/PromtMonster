@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">अंग्रेज़ी प्रॉम्प्ट</string>
+    <string name="label_your_prompt">आपकी भाषा में</string>
+    <string name="no_prompt">कोई प्रॉम्प्ट उपलब्ध नहीं</string>
+    <string name="hint_no_photos">अभी तक कोई फ़ोटो नहीं</string>
+    <string name="hint_add_photos">यहाँ छवियाँ जोड़ें:\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">वापस</string>
+</resources>

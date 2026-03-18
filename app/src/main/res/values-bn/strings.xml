@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">ইংরেজি প্রম্পট</string>
+    <string name="label_your_prompt">আপনার ভাষায়</string>
+    <string name="no_prompt">কোনো প্রম্পট নেই</string>
+    <string name="hint_no_photos">এখনো কোনো ছবি নেই</string>
+    <string name="hint_add_photos">ছবি যোগ করুন:\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">ফিরে যান</string>
+</resources>

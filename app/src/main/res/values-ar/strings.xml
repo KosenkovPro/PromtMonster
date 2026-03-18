@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">الموجه بالإنجليزية</string>
+    <string name="label_your_prompt">بلغتك</string>
+    <string name="no_prompt">لا يوجد موجه متاح</string>
+    <string name="hint_no_photos">لا توجد صور بعد</string>
+    <string name="hint_add_photos">أضف الصور إلى:\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">رجوع</string>
+</resources>

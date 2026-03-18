@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">PROMPT EM INGLÊS</string>
+    <string name="label_your_prompt">NO SEU IDIOMA</string>
+    <string name="no_prompt">Nenhum prompt disponível</string>
+    <string name="hint_no_photos">Sem fotos ainda</string>
+    <string name="hint_add_photos">Adicione imagens em:\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">Voltar</string>
+</resources>

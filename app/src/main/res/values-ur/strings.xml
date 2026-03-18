@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PromtMonster</string>
+    <string name="label_english_prompt">انگریزی پرامپٹ</string>
+    <string name="label_your_prompt">آپ کی زبان میں</string>
+    <string name="no_prompt">کوئی پرامپٹ دستیاب نہیں</string>
+    <string name="hint_no_photos">ابھی تک کوئی تصویر نہیں</string>
+    <string name="hint_add_photos">تصاویر یہاں شامل کریں:\nAndroid/data/pro.kosenkov.promtmonster/files/</string>
+    <string name="back">واپس</string>
+</resources>
